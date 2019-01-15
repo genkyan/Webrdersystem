@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* ーーーーーーここからheader部分ーーーーーー */
+
+header{
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  background-color: pink;
+  box-shadow: 0 0 10px rgb(255, 0, 0);
+
+  color: #FF3366;
+  font-size: 55px;
+  font-family: Avenir Next;
+
+}
+
+.header-logo{
+
+}
+
+
+/* ーーーーーーここまでheader部分ーーーーーー */
+
+/* ーーーーーーここからmain部分ーーーーーー */
